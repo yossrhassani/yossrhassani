@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! 👋
+Welcome to my GitHub profile!
+I'm Yossr Hassani, a final-year Engineering Student at INSAT diving into generative AI, diffusion models, and medical image analysis.
+Open to collaborating on interesting and innovative projects.
 
 <!--
 **yossrhassani/yossrhassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
